@@ -26,9 +26,15 @@ done
 zzz
 
 git init
+
 git remote add origin https://github.com/Hishakya/Hardhat.git
+
 git status
+
 git add -A
+
 git status
+
 git commit -m "hardhat"
+
 git push
